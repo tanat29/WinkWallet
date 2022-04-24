@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694089783972",
+    "project_id": "winkwallet-40eda",
+    "storage_bucket": "winkwallet-40eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694089783972:android:4f1f92700b82398147a431",
+        "android_client_info": {
+          "package_name": "com.nateree.winkwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694089783972-mm6gngqb7ct3li4nbimu3c52obmi2l9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3W5TiH6lUVAQ0a_EyEg313bSrS6w2qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694089783972-mm6gngqb7ct3li4nbimu3c52obmi2l9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
